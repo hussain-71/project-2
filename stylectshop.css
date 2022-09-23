@@ -8,7 +8,7 @@
 	min-height:100vh;
 	width :100%;
 	background-image: linear-gradient(rgba(4,9,30,0.7)
-	,rgba(4,9,30,0.7)),url(imgs/hrm3.jpg);
+	,rgba(4,9,30,0.7)),url(hrm3.jpg);
 	background-position:center;
 	background-size:cover;
 	position:relative;
@@ -249,7 +249,7 @@ color: #fff;
 	width:100%;
 	padding: 70px 0;
 	background-image: linear-gradient(rgba(4,9,30,0.7)
-	,rgba(4,9,30,0.7)),url(imgs/blu.jfif);
+	,rgba(4,9,30,0.7)),url(blu.jfif);
 }
 
 .place-box{
